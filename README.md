@@ -27,6 +27,10 @@ This commands includes
 <BR>
 
 ## Output
+# PING:
+![Screenshot 2024-11-04 141812](https://github.com/user-attachments/assets/aba1d150-2037-457c-b55b-ecff7b30dcb3)
+# TRACEROUTE:
+![Screenshot 2024-11-04 141825](https://github.com/user-attachments/assets/5401aaa9-a4fc-48e1-8729-3d238bfe076a)
 
 ## Result
 Thus Execution of Network commands Performed 
